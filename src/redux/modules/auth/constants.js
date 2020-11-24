@@ -1,0 +1,5 @@
+export const DO_LOGIN = 'DO_LOGIN'
+export const DO_LOGOUT = 'DO_LOGOUT'
+export const DO_SIGNUP = 'DO_SIGNUP'
+export const CHECK_LICENSE_KEY = 'CHECK_LICENSE_KEY'
+export const SAVE_LICENSE_KEY = 'SAVE_LICENSE_KEY'
